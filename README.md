@@ -1,1 +1,1 @@
-# SQL_project
+# Restaurant SQL Project
